@@ -201,4 +201,4 @@ client.on("message", async(message) => {
     }
 })
 
-client.login("Nzg5MTYwNzg3OTg0OTA4MzI4.X9uBQQ._nrjnMSbXbALSoUmCEtyx09B340")
+client.login("Your bot token")
